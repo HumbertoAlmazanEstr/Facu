@@ -1,0 +1,33 @@
+.container{
+  width: 80%;
+  height: 75%;
+}
+
+body{
+  background: #fffbbc ;
+}
+
+h1{
+  background: #d2f77c;
+  text-align: center;
+  margin-top: 50px;
+  padding: 1.8% ;
+}
+
+iframe{
+  margin: 3.5%;
+  margin-left: 30% ;
+
+}
+
+h2{
+  margin-top: 1.8%;
+  text-align: center;
+  background: #d2f77c;
+  padding: 1.8%;
+}
+
+.fundadores{
+  font-size: medium;
+  padding: 1%;
+}
